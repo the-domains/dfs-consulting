@@ -1,0 +1,28 @@
+name: DFS Consulting
+favicon: null
+layout_spectrum: 0.022229389054700732
+typography_spectrum: 0.7064941062126309
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.8753706545103341
+  lightness: 0.04713958711363375
+  saturation: 0.07406501448713243
+  rhythmicContrast: 0.15076800785027444
+purpose: []
